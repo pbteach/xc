@@ -96,7 +96,7 @@ http://www.pbteach.com/post/java_video/project_xc_yq_20b/
 
 # 3 课程视频资料
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
 
 
@@ -177,21 +177,21 @@ http://www.pbteach.com/post/java_video/project_xc_yq_20b/
 
 第16天：
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
 第17天：
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
 第18天：
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
 第19天：
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
 第20天：
 
-[关注公众号](http://www.pbteach.com/post/java_video/project_xc_yq/http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
+[关注公众号](http://www.pbteach.com/about/)，发送“ 传智燕青学成在线项目” 获取项目全部下载链接。
 
