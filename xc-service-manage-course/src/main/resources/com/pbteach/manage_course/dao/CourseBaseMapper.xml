@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.pbteach.manage_course.dao.CourseBaseMapper">
+   <select id="findCourseBaseById" parameterType="java.lang.String"
+           resultType="com.pbteach.framework.domain.course.CourseBase">
+
+       select * from course_base where id = #{id}
+   </select>
+    <select id="findCourseListPage" parameterType="com.pbteach.framework.domain.course.request.CourseListRequest"
+            resultType="com.pbteach.framework.domain.course.ext.CourseInfo">
+    SELECT
+      course_base.*,
+      (SELECT
+        pic
+      FROM
+        course_pic
+      WHERE courseid = course_base.id) pic
+    FROM
+      course_base
+      where company_id = #{companyId}
+    </select>
+</mapper>

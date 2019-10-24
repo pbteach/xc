@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.pbteach.manage_course.dao.CategoryMapper">
+
+    <resultMap id="categoryMap" type="com.pbteach.framework.domain.course.ext.CategoryNode">
+        <id column="one_id" property="id"/>
+        <result column="one_name" property="name"/>
+        <collection property="children" ofType="com.pbteach.framework.domain.course.ext.CategoryNode">
+            <id column="two_id" property="id"/>
+            <result column="two_name" property="name"/>
+            <collection property="children" ofType="com.pbteach.framework.domain.course.ext.CategoryNode">
+                <id column="three_id" property="id"/>
+                <result column="three_name" property="name"/>
+            </collection>
+        </collection>
+
+
+    </resultMap>
+    <!--将结果集映射为一对多树型结构-->
+   <select id="selectList"
+           resultMap="categoryMap">
+
+     SELECT
+  a.id one_id,
+  a.name one_name,
+  b.id two_id,
+  b.name two_name,
+  c.id three_id,
+  c.name three_name
+FROM
+  category a
+  LEFT JOIN category b
+    ON b.parentid = a.id
+  LEFT JOIN category c
+    ON c.parentid = b.id
+  WHERE a.parentid = '0'
+
+  ORDER BY a.id,b.id,c.id
+   </select>
+
+</mapper>
