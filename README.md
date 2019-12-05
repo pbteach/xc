@@ -9,11 +9,11 @@
 
 ​	学成在线项目借鉴MOOC的设计思想，是提供IT职业在线课程的学习平台，为即将和已经加入IT领域的技术人才提供在线学习服务。用户以任务为导向，通过录播学习、直播学习、在线练习、在线考试等学习形式，掌握并熟练应用IT技能。项目包括门户、学习中心、教学管理中心、社交系统、系统管理中心等平台构成，为学生提供学、练、测一体化的学习服务。
 
-![1566013794794](http://www.pbteach.com/post/java_video/project_xc_yq/1566013794794.png)
+![1566013794794](http://www.pbteach.com/post/java_distribut/project_xc_yq/1566013794794.png)
 
 技术架构图：
 
-![1-framework](http://www.pbteach.com/post/java_video/project_xc_yq/1-framework.jpg)
+![1-framework](http://www.pbteach.com/post/java_distribut/project_xc_yq/1-framework.jpg)
 
 ​	学成在线项目按照大型互联网分布式系统的要求进行设计，采用前后端分离的技术架构，前端采用当前流行的Vue.js技术栈进行构建，服务端基于Spring Boot框架，采用Spring Cloud微服务架构、Spring MVC、Spring Data JPA、Spring Security Oauth2、Spring AMQP等Spring全家桶技术栈进行设计开发。项目还采用了Maven、Git/GitLab、Docker等流行的DevOps工具，有力的支撑项目的整个开发和运维过程。
 
@@ -70,27 +70,27 @@ MyBatis从Ibatis发展至今简单易用，功能强大，相比Spring Data JPA�
 
 # 2 课程讲义
 
-http://www.pbteach.com/post/java_video/project_xc_yq_01/
-http://www.pbteach.com/post/java_video/project_xc_yq_02/
-http://www.pbteach.com/post/java_video/project_xc_yq_03/
-http://www.pbteach.com/post/java_video/project_xc_yq_04/
-http://www.pbteach.com/post/java_video/project_xc_yq_05/
-http://www.pbteach.com/post/java_video/project_xc_yq_06/
-http://www.pbteach.com/post/java_video/project_xc_yq_07/
-http://www.pbteach.com/post/java_video/project_xc_yq_08/
-http://www.pbteach.com/post/java_video/project_xc_yq_09/
-http://www.pbteach.com/post/java_video/project_xc_yq_10/
-http://www.pbteach.com/post/java_video/project_xc_yq_11/
-http://www.pbteach.com/post/java_video/project_xc_yq_12/
-http://www.pbteach.com/post/java_video/project_xc_yq_13/
-http://www.pbteach.com/post/java_video/project_xc_yq_14/
-http://www.pbteach.com/post/java_video/project_xc_yq_15/
-http://www.pbteach.com/post/java_video/project_xc_yq_16/
-http://www.pbteach.com/post/java_video/project_xc_yq_17/
-http://www.pbteach.com/post/java_video/project_xc_yq_18/
-http://www.pbteach.com/post/java_video/project_xc_yq_19/
-http://www.pbteach.com/post/java_video/project_xc_yq_20a/
-http://www.pbteach.com/post/java_video/project_xc_yq_20b/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_01/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_02/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_03/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_04/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_05/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_06/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_07/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_08/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_09/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_10/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_11/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_12/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_13/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_14/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_15/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_16/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_17/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_18/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_19/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_20a/
+http://www.pbteach.com/post/java_distribut/project_xc_yq_20b/
 
 
 
